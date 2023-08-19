@@ -35,8 +35,6 @@ The script will extract information about your recently played tracks, transform
 
 You can customize the script and database location according to your preferences by modifying the variables in the `main.py` file.
 
-## Job Scheduling
 
-If you want to schedule this script to run periodically, you can integrate it with job scheduling tools like Apache Airflow. Example files and instructions for Airflow integration can be found in the `dag` folder.
 
 
