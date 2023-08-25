@@ -31,9 +31,7 @@ The script will extract information about your recently played tracks, transform
 2. The retrieved data is transformed into a pandas DataFrame, and several data quality checks are performed, including checking for empty data, duplicate entries, null values, and timestamp validity.
 3. The transformed data is then loaded into a SQLite database. If the data already exists in the database, it will be appended.
 
-## Customization
 
-You can customize the script and database location according to your preferences by modifying the variables in the `main.py` file.
 
 
 
